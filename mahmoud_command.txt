@@ -1,0 +1,8 @@
+git clone https://github.com/username/repo-name.git  -> copy Repo
+cd .\DEPI-Githup-Demo\   -> enter to repo file 
+git pull origin main    -> git all update 
+git checkout -b Mahmoud    ->  create branch and switch to it in the same time 
+git add .    -> add updates 
+git commit -m "write your message"       -> write comment of your update 
+git push -u origin branch-name       -> push your update 
+ git branch  -> to be sure you on your branch 
